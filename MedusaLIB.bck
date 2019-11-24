@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD9364BBCZ
+D Ini merupakan Transciever
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD9364.pdf
+$ENDCMP
+#
+$CMP XC7010-1CLG400C
+D It is just my hoby works
+$ENDCMP
+#
+#End Doc Library
