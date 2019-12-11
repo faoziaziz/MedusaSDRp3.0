@@ -5,4 +5,14 @@ D Ini merupakan Transciever
 F https://www.analog.com/media/en/technical-documentation/data-sheets/AD9364.pdf
 $ENDCMP
 #
+$CMP XC7010-1CLG400C_AzizFaozi
+D SoC for Xilinx use to main processor for Medusa SDR
+K SoC
+$ENDCMP
+#
+$CMP XC7010-1CLG400C_AzizFaozi_copy
+D SoC for Xilinx use to main processor for Medusa SDR
+K SoC
+$ENDCMP
+#
 #End Doc Library
