@@ -1,10 +1,9 @@
 EESchema Schematic File Version 4
-LIBS:MedusaSDR-cache
 EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
-Sheet 7 11
+Sheet 7 12
 Title ""
 Date ""
 Rev ""
@@ -15,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MedusaLIB:XC7010-1CLG400C_AzizFaozi U?
+L MedusaSDR-rescue:XC7010-1CLG400C_AzizFaozi-MedusaLIB U?
 U 17 1 5DF722E3
 P 3350 2350
 F 0 "U?" H 3325 3115 50  0000 C CNN
@@ -26,7 +25,7 @@ F 3 "" H 2850 3000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MedusaLIB:XC7010-1CLG400C_AzizFaozi U?
+L MedusaSDR-rescue:XC7010-1CLG400C_AzizFaozi-MedusaLIB U?
 U 18 1 5DF84113
 P 11800 2300
 F 0 "U?" H 11775 3065 50  0000 C CNN
@@ -37,7 +36,7 @@ F 3 "" H 11300 2950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MedusaLIB:XC7010-1CLG400C_AzizFaozi U?
+L MedusaSDR-rescue:XC7010-1CLG400C_AzizFaozi-MedusaLIB U?
 U 19 1 5DF8A9CF
 P 5550 6450
 F 0 "U?" H 5525 7215 50  0000 C CNN
@@ -48,7 +47,7 @@ F 3 "" H 5050 7100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MedusaLIB:XC7010-1CLG400C_AzizFaozi U?
+L MedusaSDR-rescue:XC7010-1CLG400C_AzizFaozi-MedusaLIB U?
 U 20 1 5DF92692
 P 11600 6800
 F 0 "U?" H 11575 7565 50  0000 C CNN

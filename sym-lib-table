@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name MedusaSDR-rescue)(type Legacy)(uri ${KIPRJMOD}/MedusaSDR-rescue.lib)(options "")(descr ""))
+  (lib (name MedusaSDR-Other)(type Legacy)(uri /home/aziz/hobi/github/MedusaSDRp3.0/otherLib/ul_LTC3569EFEPBF/KiCAD/2020-01-02_14-11-41/2020-01-02_14-11-41.lib)(options "")(descr ""))
 )

@@ -1,10 +1,9 @@
 EESchema Schematic File Version 4
-LIBS:MedusaSDR-cache
 EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
-Sheet 6 11
+Sheet 6 12
 Title ""
 Date ""
 Rev ""
@@ -15,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MedusaLIB:XC7010-1CLG400C_AzizFaozi U?
+L MedusaSDR-rescue:XC7010-1CLG400C_AzizFaozi-MedusaLIB U?
 U 13 1 5DF3B46D
 P 4150 3100
 F 0 "U?" H 4125 3865 50  0000 C CNN
@@ -26,7 +25,7 @@ F 3 "" H 3650 3750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MedusaLIB:XC7010-1CLG400C_AzizFaozi U?
+L MedusaSDR-rescue:XC7010-1CLG400C_AzizFaozi-MedusaLIB U?
 U 14 1 5DF4DF7A
 P 12150 3150
 F 0 "U?" H 12125 3915 50  0000 C CNN
@@ -37,7 +36,7 @@ F 3 "" H 11650 3800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MedusaLIB:XC7010-1CLG400C_AzizFaozi U?
+L MedusaSDR-rescue:XC7010-1CLG400C_AzizFaozi-MedusaLIB U?
 U 15 1 5DF5B016
 P 4100 7400
 F 0 "U?" H 4075 8165 50  0000 C CNN
@@ -48,7 +47,7 @@ F 3 "" H 3600 8050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MedusaLIB:XC7010-1CLG400C_AzizFaozi U?
+L MedusaSDR-rescue:XC7010-1CLG400C_AzizFaozi-MedusaLIB U?
 U 16 1 5DF6768B
 P 12250 7150
 F 0 "U?" H 12225 7915 50  0000 C CNN
@@ -302,4 +301,8 @@ Text GLabel 10150 7350 0    50   Input ~ 0
 VCCPINT
 Wire Wire Line
 	10150 7350 11500 7350
+Text GLabel 2950 7200 0    50   Input ~ 0
+VCCO_DDR_502
+Wire Wire Line
+	2950 7200 3350 7200
 $EndSCHEMATC

@@ -1,10 +1,9 @@
 EESchema Schematic File Version 4
-LIBS:MedusaSDR-cache
 EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
-Sheet 8 11
+Sheet 8 12
 Title ""
 Date ""
 Rev ""
@@ -15,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MedusaLIB:AD9364BBCZ U2
+L MedusaSDR-rescue:AD9364BBCZ-MedusaLIB U2
 U 2 1 5DDB8309
 P 8350 5200
 F 0 "U2" H 8450 7213 60  0000 C CNN

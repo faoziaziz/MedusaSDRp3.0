@@ -1,10 +1,9 @@
 EESchema Schematic File Version 4
-LIBS:MedusaSDR-cache
 EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
-Sheet 2 11
+Sheet 2 12
 Title "Some Interface"
 Date "2019-11-24"
 Rev "1"

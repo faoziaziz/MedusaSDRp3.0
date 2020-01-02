@@ -1,10 +1,9 @@
 EESchema Schematic File Version 4
-LIBS:MedusaSDR-cache
 EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
-Sheet 3 11
+Sheet 3 12
 Title ""
 Date ""
 Rev ""
@@ -15,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MedusaLIB:XC7010-1CLG400C_AzizFaozi U3
+L MedusaSDR-rescue:XC7010-1CLG400C_AzizFaozi-MedusaLIB U3
 U 2 1 5DDDDC60
 P 12700 3100
 F 0 "U3" H 12675 3865 50  0000 C CNN
@@ -26,7 +25,7 @@ F 3 "" H 12200 3750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MedusaLIB:XC7010-1CLG400C_AzizFaozi U3
+L MedusaSDR-rescue:XC7010-1CLG400C_AzizFaozi-MedusaLIB U3
 U 1 1 5DDD2E26
 P 4250 2800
 F 0 "U3" H 4225 3565 50  0000 C CNN
@@ -82,7 +81,7 @@ Wire Wire Line
 Wire Wire Line
 	14050 3500 14050 3550
 $Comp
-L MedusaLIB:XC7010-1CLG400C_AzizFaozi U3
+L MedusaSDR-rescue:XC7010-1CLG400C_AzizFaozi-MedusaLIB U3
 U 3 1 5DE4552A
 P 4550 8000
 F 0 "U3" H 4525 8765 50  0000 C CNN
@@ -93,7 +92,7 @@ F 3 "" H 4050 8650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MedusaLIB:XC7010-1CLG400C_AzizFaozi U3
+L MedusaSDR-rescue:XC7010-1CLG400C_AzizFaozi-MedusaLIB U3
 U 4 1 5DE58A35
 P 12150 7850
 F 0 "U3" H 12125 8615 50  0000 C CNN

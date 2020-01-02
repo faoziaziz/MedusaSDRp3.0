@@ -1,0 +1,27 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 12 12
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L MedusaSDR-Other:LTC3569EFE-PBF U1
+U 1 1 5E0F4EE3
+P 4600 2700
+F 0 "U1" H 5900 3087 60  0000 C CNN
+F 1 "LTC3569EFE-PBF" H 5900 2981 60  0000 C CNN
+F 2 "TSSOP-16_FE/BA" H 5900 2940 60  0001 C CNN
+F 3 "" H 4600 2700 60  0000 C CNN
+	1    4600 2700
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
